@@ -1,0 +1,5 @@
+channels: 64
+embed_dim: 128
+temperature: 0.1
+batch_size: 256
+epochs: 200
